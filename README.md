@@ -1,6 +1,7 @@
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-barreca/)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Michael-73@live.fr)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/michaelbarreca)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+
+
 
 <div align="center">
         <h2>📲 Kotlin Mobile </h2><br><br>
@@ -47,7 +48,9 @@
 </div>
 
 
-
+<div align="center">
+        <h2>______________________________________</h2><br><br>
+</div>
 
 
 <div align="center">
@@ -79,6 +82,79 @@
         <h2>📲 Kotlin Test Mobile 🔝</h2><br><br>
         <img src="img2/2emetest.png">
 </div>
+
+
+
+<div align="center">
+        <h2>______________________________________</h2><br><br>
+</div>
+
+
+
+<div align="center">
+        <h2> Les opérateurs et /ou ! </h2><br><br>
+        <img src="img3/lesoperateuretou.png">
+</div>
+
+<div align="center">
+        <h2> Les opérateurs unaire ! </h2><br><br>
+        <img src="img3/operateurunaire.png">
+</div>
+
+<div align="center">
+        <h2> Les opérateurs combiner ! </h2><br><br>
+        <img src="img3/lesoperateurscombiner.png"><br><br>
+</div>
+
+<div align="center">
+        <h2> Les opérateurs d'assignations ! </h2><br><br>
+        <img src="img3/lesoperateursassignations.png">
+</div>
+
+<div align="center">
+        <h2> Les interopérabilité ! </h2><br><br>
+        <img src="img3/lesinteroperabilite.png">
+</div>
+
+<div align="center">
+        <h2> Les fonctions basic ! </h2><br><br>
+        <img src="img3/lesfonctionsbasic.png">
+</div>
+
+<div align="center">
+        <h2> Les fonctions avec ajout de parametres ! </h2><br><br>
+        <img src="img3/Lesfonctionsavecajoutdeparametres.png"><br>
+        <img src="img3/ajoutavecparamettre.png">
+</div>
+
+<div align="center">
+        <h2> Les fonctions parametres ! </h2><br><br>
+        <img src="img3/fonctionparamettre.png">
+</div>
+
+<div align="center">
+        <h2> Les fonctions avec retour ! </h2><br><br>
+        <img src="img3/fonctionavecretour.png">
+</div>
+
+<div align="center">
+        <h2> Arithmetique ! </h2><br><br>
+        <img src="img3/arithmetique.png">
+</div>
+
+<div align="center">
+        <h2> Le remainder ou modulo ! </h2><br><br>
+        <img src="img3/leremainder.png">
+</div>
+
+<div align="center">
+        <h2>______________________________________</h2><br><br>
+</div>
+
+
+
+
+
 
 
 <div align="center"><br><br>
