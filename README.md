@@ -153,7 +153,7 @@
 
 
 <div align="center">
-    <a href="https://github.com/Mika73100/Kotlin/blob/main/composants/README.md"><h1>heading</h1></a>
+    <a src="https://github.com/Mika73100/Kotlin/blob/main/composants/README.md"><h2>Les composants</h2></a>
 </div>
 
 
