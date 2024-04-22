@@ -1,13 +1,6 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 
-
-
-<div align="center">
-        <h2>📲 Kotlin Mobile </h2><br><br>
-        <img src="base/Android_logo_2019.png">
-</div><br><br>
-
 <br><br><br><br>
 
 
