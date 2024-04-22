@@ -19,7 +19,9 @@
 
 <div align="left">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/basic/README.md">➡️ Les basic </a>
-</div><br><br><br>
+</div>
+
+<br>
 
 <div align="left">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/composants/README.md">➡️ Les composants</a>
