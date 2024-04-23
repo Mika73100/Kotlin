@@ -49,12 +49,11 @@
         <img src="compo1/spacer.png">
 </div>
 
+
+
+<br><br>
 <div align="center">
         <h2>__________________EXERCICE___________________</h2>
-</div><br><br>
-
-<div align="center">
-        <h2> Les spacers ! </h2><br><br>
         <img src="compo1/screen.png">
 </div>
 
