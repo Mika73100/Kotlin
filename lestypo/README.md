@@ -6,49 +6,26 @@
 
 <div align="center">
         <h2> Les textes ! </h2><br><br>
-        <p>Pour installer une nouvelle typographie, vous devez l'importer directement dans le fichier res.</p>
+        <p>Pour installer une nouvelle typographie, vous devez l'importer directement dans le fichier res.</p><br>
         <img src="./refactorfont.png">
 </div>
 
 <div align="center">
-        <h2> Les images ! </h2><br><br>
-        <img src="compo1/image.png">
+        <h2> Appel mes fonts ! </h2><br><br>
+        <img src="./appelfont.png">
 </div>
 
 <div align="center">
-        <h2> Les icones ! </h2><br><br>
-        <img src="compo1/icone.png">
+        <h2> Ajouter des paramettres a nos typographie ! </h2><br><br>
+        <img src="./lesparamettre.png">
 </div>
 
 <div align="center">
-        <h2> Les IconVector ! </h2><br><br>
-        <img src="compo1/IconVector.png"><br><br>
+        <h2> Exemple d'utilisation ! </h2><br><br>
+        <img src="./view.png">
 </div>
 
-<div align="center">
-        <h2> Les columns ! </h2><br><br>
-        <img src="compo1/column.png">
-</div>
 
-<div align="center">
-        <h2> Les rows ! </h2><br><br>
-        <img src="compo1/row.png">
-</div>
-
-<div align="center">
-        <h2> Les surfaces ! </h2><br><br>
-        <img src="compo1/surface.png">
-</div>
-
-<div align="center">
-        <h2> Les boxs ! </h2><br><br>
-        <img src="compo1/lesbox.png">
-</div>
-
-<div align="center">
-        <h2> Les spacers ! </h2><br><br>
-        <img src="compo1/spacer.png">
-</div>
 
 
 
