@@ -8,10 +8,13 @@
         <img src="base/Android_logo_2019.png">
 </div><br><br>
 
+<div align="center">
+        <img src="base/gifjetbr.gif">
+</div>
 <br><br><br><br>
 
 
-
+gifjetbr.gif
 
 <div align="center">
         <h2>______________________________________</h2>
