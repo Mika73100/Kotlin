@@ -5,7 +5,7 @@
 
 
 <div align="center">
-        <h2> Les textes ! </h2><br><br>
+        <h2>L'installation !</h2><br><br>
         <p>Pour installer une nouvelle typographie, vous devez l'importer directement dans le fichier res.</p><br>
         <img src="./refactorfont.png">
 </div>
