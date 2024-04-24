@@ -13,9 +13,6 @@
 </div>
 <br><br><br><br>
 
-
-gifjetbr.gif
-
 <div align="center">
         <h2>______________________________________</h2>
 </div>
@@ -45,25 +42,7 @@ gifjetbr.gif
 
 
 
-
-
-<div align="center"><br><br>
-        <h2>📲 Mobile Frameworks 🔝</h2><br><br>
-</div>
-
-<div align="center"><br><br>
-        <h2>💻 Programming 🔝</h2><br><br>
-</div>
-
-<div align="center"><br><br>
-        <h2>👨‍🎨 Customing 🔝</h2><br><br>
-</div>
-
-<div align="center"><br><br>
-        <h2>✍🏼 Design 🔝</h2><br><br>
-</div>
-
-
-<div align="center"><br><br>
-        <h2>🪛 The tools 🔝</h2><br><br>
-</div>
+<div align="center">
+        <h2>📲 Kotlin Mobile </h2><br><br>
+        <img src="base/lolo.gif">
+</div><br><br>
