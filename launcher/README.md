@@ -6,7 +6,7 @@
 
 <div align="center">
         <h2> Dans res importe ton image ! </h2><br><br>
-        <img src="./laucher_icon.png">
+        <img src="./launcher_icon.png">
 </div>
 
 <div align="center">
