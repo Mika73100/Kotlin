@@ -2,8 +2,10 @@
 
 
 <div align="center">
-        <h2>📲 Kotlin Mobile </h2><br><br>
+        <br><br>
         <img src="base/Android_logo_2019.png">
+        <br><br>
+        <h2>📲 Kotlin Mobile </h2>
 </div><br><br>
 
 
