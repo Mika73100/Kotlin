@@ -33,6 +33,12 @@
     <a href="https://github.com/Mika73100/Kotlin/blob/main/boucle/README.md">➡️ Les boucles</a>
 </div>
 
+<br>
+
+<div align="left">
+    <a href="https://github.com/Mika73100/Kotlin/blob/main/boucle/README.md">➡️ Les typographies</a>
+</div>
+
 
 
 
