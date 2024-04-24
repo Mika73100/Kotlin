@@ -29,6 +29,7 @@
     <a href="https://github.com/Mika73100/Kotlin/blob/main/lestypo/README.md">➡️ Les typographies</a>
 </div>
 
+<br>
 
 <div align="center">
         <img src="base/lolo.gif">
