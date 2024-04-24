@@ -6,9 +6,9 @@
         <img src="base/Android_logo_2019.png">
         <br><br>
         <h2>📲 Kotlin Mobile </h2>
-</div><br><br>
+</div><br>
 
-
+<br>
 <div align="left">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/basic/README.md">➡️ Les basic </a>
 </div>
@@ -31,8 +31,7 @@
     <a href="https://github.com/Mika73100/Kotlin/blob/main/lestypo/README.md">➡️ Les typographies</a>
 </div>
 
-<br>
 
 <div align="center">
         <img src="base/lolo.gif">
-</div><br><br>
+</div>
