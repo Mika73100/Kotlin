@@ -34,6 +34,12 @@
 
 <br>
 
+<div align="left">
+    <a href="https://github.com/Mika73100/Kotlin/blob/main/lestypo/README.md">➡️ La navigation</a>
+</div>
+
+<br>
+
 <div align="center">
         <img src="base/lolo.gif">
 </div>
