@@ -46,6 +46,12 @@
 
 <br>
 
+<div align="left">
+    <a href="https://github.com/Mika73100/Kotlin/blob/main/leslambdas/README.md">➡️ Les Lambdas</a>
+</div>
+
+<br>
+
 <div align="center">
         <img src="base/lolo.gif">
 </div>
