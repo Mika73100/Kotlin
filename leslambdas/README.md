@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-        <h2> Les Lambda Data Type !</h2><br><br>
+        <h2> Les Data Type !</h2><br><br>
         <img src="./lambdasdata.png">
 </div>
 
