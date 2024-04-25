@@ -24,6 +24,13 @@
         <img src="./lambdasparamettre.png">
 </div>
 
+<br>
+
+<div align="center">
+        <h2>Avec des fonctions !</h2><br><br>
+        <img src="./avecfonctions.png">
+</div>
+
 
 
 
