@@ -13,8 +13,15 @@
 <br>
 
 <div align="center">
-        <h2> Les Data Type !</h2><br><br>
+        <h2>Les Data Type !</h2><br><br>
         <img src="./lambdasdata.png">
+</div>
+
+<br>
+
+<div align="center">
+        <h2>Avec des paramètres !</h2><br><br>
+        <img src="./lambdasparamettre.png">
 </div>
 
 
