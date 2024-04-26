@@ -23,6 +23,12 @@
         <img src="./textbutton.png"><br><br>
 </div>
 
+<div align="center">
+        <h2> Les buttons icon ! </h2><br><br>
+        <p>Le buttons en exemple permet de reset le count à zero.</p>
+        <img src="./count0.png"><br><br>
+</div>
+
 
 
 
