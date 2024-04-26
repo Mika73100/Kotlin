@@ -31,6 +31,11 @@
 
 
 
+<div align="center">
+        <h2> Les buttons floating icon ! </h2><br><br>
+        <img src="./buttonfloating.png"><br><br>
+</div>
+
 
 
 
