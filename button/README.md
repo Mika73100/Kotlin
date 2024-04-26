@@ -26,9 +26,6 @@
 <div align="center">
         <h2> Les buttons icon ! </h2><br><br>
         <p>Le buttons en exemple permet de reset le count à zero.</p>
-        <p>Il faut rajouter les variables pour les appeler dans le buttons</p>
-        <p>var list = listOf < String >("Michael", "Cassy", "Candy", "José")<p>
-        <p>var index by remember { mutableStateOf(0) }</p>
         <img src="./count0.png"><br><br>
 </div>
 
@@ -36,6 +33,10 @@
 
 <div align="center">
         <h2> Les buttons floating icon ! </h2><br><br>
+        <p>Il faut rajouter les variables pour les appeler dans le buttons.</p>
+        <p>Permet de changer de nom au clic.</p>
+        <p>var list = listOf < String >("Michael", "Cassy", "Candy", "José")<p>
+        <p>var index by remember { mutableStateOf(0) }</p>
         <img src="./buttonfloating.png"><br><br>
 </div>
 
