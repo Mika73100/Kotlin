@@ -53,7 +53,7 @@
 <br>
 
 <div align="left">
-    <a href="https://github.com/Mika73100/Kotlin/blob/main/buttons/README.md">➡️ Les buttons</a>
+    <a href="https://github.com/Mika73100/Kotlin/blob/main/button/README.md">➡️ Les buttons</a>
 </div>
 
 <br>
