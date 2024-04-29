@@ -12,6 +12,11 @@
 
 <div align="left">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/basic/README.md">➡️ Les basic </a>
+    <div align="right">
+    <a href="https://github.com/Mika73100/Kotlin/blob/main/lesinteractifs/README.md">➡️ Les éléments interactifs</a>
+</div>
+
+<br>
 </div>
 
 <br>
@@ -58,55 +63,16 @@
 
 <br>
 
-<div align="right">
-    <a href="https://github.com/Mika73100/Kotlin/blob/main/lesinteractifs/README.md">➡️ Les éléments interactifs</a>
-</div>
 
-<br>
 
-<div align="right">
-    <a href="https://github.com/Mika73100/Kotlin/blob/main/lesinteractifs/README.md">➡️ Les éléments interactifs</a>
-</div>
 
-<br>
 
-<div align="right">
-    <a href="https://github.com/Mika73100/Kotlin/blob/main/lesinteractifs/README.md">➡️ Les éléments interactifs</a>
-</div>
 
-<br>
 
-<div align="right">
-    <a href="https://github.com/Mika73100/Kotlin/blob/main/lesinteractifs/README.md">➡️ Les éléments interactifs</a>
-</div>
-
-<br>
-
-<div align="right">
-    <a href="https://github.com/Mika73100/Kotlin/blob/main/lesinteractifs/README.md">➡️ Les éléments interactifs</a>
-</div>
-
-<br>
-
-<div align="right">
-    <a href="https://github.com/Mika73100/Kotlin/blob/main/lesinteractifs/README.md">➡️ Les éléments interactifs</a>
-</div>
-
-<br>
 
 
 
 </div><br>
-
-
-
-
-
-
-
-
-
-
 
 
 
