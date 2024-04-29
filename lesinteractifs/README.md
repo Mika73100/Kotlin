@@ -8,7 +8,7 @@
 <div align="center">
         <h2> Le parents ! </h2><br><br>
         <p>Crée un composable en tête de fichier pour bien le distinguer des autres composables et appeler sa fonction par la suite. Ce composant, que j'appelle enfant, n'est en réalité qu'un composant avec un nom de fonction. Pour résumer, il s'agit d'un composant dans une liste de composants formant un corps.</p>
-        <img src="./lesvariables.png"><br><br>
+        <img src="./parent.png"><br><br>
 </div>
 
 
@@ -61,6 +61,14 @@
         <img src="./bleu.png">
         <img src="./rose.png">
         <img src="./lebuttonradio.png">
+</div>
+
+<br>
+
+
+<div align="center">
+        <h2> Le slider ! </h2><br><br>
+        <img src="./range.png">
 </div>
 
 <br>
