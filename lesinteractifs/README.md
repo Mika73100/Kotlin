@@ -17,6 +17,18 @@
 </div>
 
 
+<br>
 
 
+<div align="center">
+        <h2> Les conditions ! </h2><br><br>
+        <p>Je rajoute dans la colonne les variables que je vais utiliser dans mon second composant.</p>
+        <img src="./surname.png"><br><br>
+</div>
+
+
+<div align="center">
+        <h2> Le composant Textfiled avec condition error et longueur de la valeur ! </h2><br><br>
+        <img src="./textfieldvide.png">
+</div>
 
