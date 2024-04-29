@@ -46,3 +46,12 @@
         <img src="./optionbuttondown.png">
 </div>
 
+<br>
+
+<div align="center">
+        <h2> Cacher ou non le password ! </h2><br><br>
+        <img src="./password.png">
+</div>
+
+
+<br>
