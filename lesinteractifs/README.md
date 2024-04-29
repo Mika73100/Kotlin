@@ -41,6 +41,7 @@
         <p>Sur ce bouton, je vais pouvoir utiliser la propriété next qui va me permettre de passer du champ texte 1 au champ texte 2 en appuyant sur le clavier. En bas à droite, une flèche bleue est apparue.</p>
         <img src="./optionbuttonnext.png">
         <br><br>
+        <img src="./valsousmafonction.png">
         <p>Sur ce bouton, je vais pouvoir utiliser la propriété 'down' qui va me permettre de fermer le clavier apparu.</p>
         <img src="./optionbuttondown.png">
 </div>
