@@ -6,7 +6,7 @@
         <img src="base/Android_logo_2019.png">
         <br><br>
         <h2>📲 Kotlin Mobile </h2>
-</div><br>
+
 
 <br>
 
@@ -65,7 +65,7 @@
 <br>
 
 
-
+</div><br>
 
 
 
