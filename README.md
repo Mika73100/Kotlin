@@ -10,13 +10,13 @@
 
 <br>
 
-<div align="left">
-    <a href="https://github.com/Mika73100/Kotlin/blob/main/basic/README.md">➡️ Les basic </a>
+<div>
+    <div align="left">
+        <a href="https://github.com/Mika73100/Kotlin/blob/main/basic/README.md">➡️ Les basic </a>
+    </div>
     <div align="right">
-    <a href="https://github.com/Mika73100/Kotlin/blob/main/lesinteractifs/README.md">➡️ Les éléments interactifs</a>
-</div>
-
-<br>
+        <a href="https://github.com/Mika73100/Kotlin/blob/main/lesinteractifs/README.md">➡️ Les éléments interactifs</a>
+    </div>
 </div>
 
 <br>
@@ -64,6 +64,8 @@
 <br>
 
 
+
+<br>
 
 
 
