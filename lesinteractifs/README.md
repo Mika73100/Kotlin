@@ -57,7 +57,7 @@
 <br>
 
 <div align="center">
-        <h2> Le button radio ! </h2><br><br>
+        <h2> Le button switch ! </h2><br><br>
         <img src="./bleu.png">
         <img src="./rose.png">
         <img src="./lebuttonradio.png">
