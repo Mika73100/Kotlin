@@ -72,3 +72,10 @@
 </div>
 
 <br>
+
+<div align="center">
+        <h2> Les radios button ! </h2><br><br>
+        <img src="./range.png">
+</div>
+
+<br>
