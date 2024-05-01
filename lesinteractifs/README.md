@@ -8,6 +8,7 @@
 <div align="center">
         <h2> Le parents ! </h2><br><br>
         <p>Crée un composable en tête de fichier pour bien le distinguer des autres composables et appeler sa fonction par la suite. Ce composant, que j'appelle enfant, n'est en réalité qu'un composant avec un nom de fonction. Pour résumer, il s'agit d'un composant dans une liste de composants formant un corps.</p>
+        <img src="./variables.png"><br><br>
         <img src="./parent.png"><br><br>
 </div>
 
@@ -76,6 +77,13 @@
 <div align="center">
         <h2> Les radios button ! </h2><br><br>
         <img src="./range.png">
+</div>
+
+<br>
+
+<div align="center">
+        <h2> Le button d'incrémentation ! </h2><br><br>
+        <img src="./incremente.png">
 </div>
 
 <br>
