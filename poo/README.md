@@ -20,8 +20,8 @@
 </div>
 
 <div align="center">
-        <h2> ! </h2><br><br>
-        <img src="./">
+        <h2> Les propriétés privées ! </h2><br><br>
+        <img src="./priver.png">
 </div>
 
 
