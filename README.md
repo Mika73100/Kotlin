@@ -25,7 +25,7 @@
     <a href="https://github.com/Mika73100/Kotlin/blob/main/composants/README.md">➡️ Les composants</a>
 </div>
 <div align="right">
-    <a href="https://github.com/Mika73100/Kotlin/blob/main/poo/README.md">➡️ La POO</a>
+    <a href="https://github.com/Mika73100/Kotlin/blob/main/poo/README.md">➡️ La poo</a>
 </div>
 </div>
 <br>
