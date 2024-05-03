@@ -15,8 +15,8 @@
 </div>
 
 <div align="center">
-        <h2> ! </h2><br><br>
-        <img src="./">
+        <h2> Les paramètres ! </h2><br><br>
+        <img src="./poo3.png">
 </div>
 
 <div align="center">
