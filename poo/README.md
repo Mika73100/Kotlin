@@ -24,7 +24,15 @@
         <img src="./priver.png">
 </div>
 
+<div align="center">
+        <h2> Les propriétés calculé ! </h2><br><br>
+        <img src="./getset.png">
+</div>
 
+<div align="center">
+        <h2> Les data class ! </h2><br><br>
+        <img src="./enum.png">
+</div>
 
 
 
