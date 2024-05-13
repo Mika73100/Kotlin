@@ -31,6 +31,11 @@
 
 <div align="center">
         <h2> Les data class ! </h2><br><br>
+        <img src="./dataclass.png">
+</div>
+
+<div align="center">
+        <h2> Les enum ! </h2><br><br>
         <img src="./enum.png">
 </div>
 
