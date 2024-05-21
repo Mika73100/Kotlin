@@ -50,6 +50,7 @@
 
 <div align="center">
         <h2>Une liste de membres défilable !</h2><br><br>
+        <p>J'utilise lazyColumn pour que ma list défile.</p><br>
         <img src="./list.png">
 </div>
 
