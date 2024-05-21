@@ -34,38 +34,33 @@
     <a href="https://github.com/Mika73100/Kotlin/blob/main/boucle/README.md">➡️ Les boucles</a>
 </div>
 <div align="right">
-    <a href="https://github.com/Mika73100/Kotlin/blob/main/poo/README.md">➡️ Les listes</a>
+    <a href="https://github.com/Mika73100/Kotlin/blob/main/leslistes/README.md">➡️ Les listes</a>
 </div>
 <br>
 
 <div align="left">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/lestypo/README.md">➡️ Les typographies</a>
 </div>
-
 <br>
 
 <div align="left">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/navigationbar/README.md">➡️ La navigation</a>
 </div>
-
 <br>
 
 <div align="left">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/launcher/README.md">➡️ Le launcher</a>
 </div>
-
 <br>
 
 <div align="left">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/leslambdas/README.md">➡️ Les Lambdas</a>
 </div>
-
 <br>
 
 <div align="left">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/button/README.md">➡️ Les buttons</a>
 </div>
-
 <br>
 
 
