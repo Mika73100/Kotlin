@@ -44,7 +44,7 @@
     <a href="https://github.com/Mika73100/Kotlin/blob/main/lestypo/README.md">➡️ Les typographies</a>
 </div>
 <div align="right">
-    <a href="https://github.com/Mika73100/Kotlin/blob/main/miseajour.README.md">➡️ Les mises à jours</a>
+    <a href="https://github.com/Mika73100/Kotlin/blob/main/miseajour/README.md">➡️ Les mises à jours</a>
 </div>
 <br>
 
