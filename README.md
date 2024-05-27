@@ -28,6 +28,7 @@
     <a href="https://github.com/Mika73100/Kotlin/blob/main/poo/README.md">➡️ La poo</a>
 </div>
 </div>
+
 <br>
 
 <div align="left">
@@ -36,10 +37,14 @@
 <div align="right">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/leslistes/README.md">➡️ Les listes</a>
 </div>
+
 <br>
 
 <div align="left">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/lestypo/README.md">➡️ Les typographies</a>
+</div>
+<div align="right">
+    <a href="https://github.com/Mika73100/Kotlin/blob/main/miseajour.README.md">➡️ Les mises à jours</a>
 </div>
 <br>
 
