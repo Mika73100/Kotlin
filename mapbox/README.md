@@ -5,7 +5,7 @@
 
 <div align="center">
         <h2>Tutorial !</h2><br><br>
-        <video src="./Enregistrement 2024-06-04 095542.mp4">
+        <link src="./Enregistrement 2024-06-04 095542.mp4">
 </div>
 
 
