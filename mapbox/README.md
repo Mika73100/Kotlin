@@ -4,8 +4,8 @@
 <br><br><br><br>
 
 <div align="center">
-        <h2>Tutorial !</h2><br><br>
-        <p src="./Enregistrement 2024-06-04 095542.mp4">
+        <h2>Source Tutorial !</h2><br><br>
+        <p>Video : Mise en place</p>
 </div>
 
 
