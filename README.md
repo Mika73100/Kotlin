@@ -74,7 +74,9 @@
 <div align="left">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/navigationbar/README.md">➡️ La navigation</a>
 </div>
-
+<div align="right">
+    <a href="https://github.com/Mika73100/Kotlin/blob/main/mapbox/README.md">➡️ Les mises à jours</a>
+</div>
 <br>
 
 
