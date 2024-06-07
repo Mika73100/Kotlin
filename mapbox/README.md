@@ -63,10 +63,6 @@
         <img src="./les permissions dans le manifest.png">
 </div>
 
-<div align="center">
-        <h2>Dans le composable : les permissions dans le manifest !</h2><br><br>
-        <img src="./les permissions dans le manifest.png">
-</div>
 
 <div align="center">
         <h2>Dans le composable : la column jusqu'au forEach !</h2><br><br>
