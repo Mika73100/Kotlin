@@ -46,10 +46,6 @@
         <img src="./config.png">
 </div>
 
-<div align="center">
-        <h2>Ajout de la clée token dans le nouveau fichier : developer-config.xml !</h2><br><br>
-        <img src="./config.png">
-</div>
 
 <div align="center">
         <h2>Dans le composable : les permissions !</h2><br><br>
