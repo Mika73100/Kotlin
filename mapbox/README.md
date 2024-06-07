@@ -25,10 +25,6 @@
         <img src="./maven.png">
 </div>
 
-<div align="center">
-        <h2>Ajout du maeven !</h2><br><br>
-        <img src="./maven.png">
-</div>
 
 <div align="center">
         <h2>Ajout de la clée Token dans le : settings.gradle.kts !</h2><br><br>
