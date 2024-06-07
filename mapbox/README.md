@@ -40,10 +40,6 @@
         <img src="./manifest.png">
 </div>
 
-<div align="center">
-        <h2>Ajout des permission dans le : AndroidManifest.xml !</h2><br><br>
-        <img src="./manifest.png">
-</div>
 
 <div align="center">
         <h2>Ajout de la clée token dans le nouveau fichier : developer-config.xml !</h2><br><br>
