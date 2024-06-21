@@ -43,6 +43,7 @@
 <div align="center">
         <h2> Les buttons floating icon avec conditions ! </h2><br><br>
         <p>Crée un icone a condition qui change d'aspect au click du button.</p>
+        <p>val (showInterventions, setShowInterventions) = remember { mutableStateOf(true) }</p>
         <img src="./buttonicone.png"><br><br>
 </div>
 
