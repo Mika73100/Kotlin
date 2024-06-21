@@ -40,6 +40,12 @@
         <img src="./buttonfloating.png"><br><br>
 </div>
 
+<div align="center">
+        <h2> Les buttons floating icon avec conditions ! </h2><br><br>
+        <p>Crée un icone a condition qui change d'aspect au click du button.</p>
+        <img src="./buttonicone.png"><br><br>
+</div>
+
 
 
 
