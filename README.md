@@ -89,7 +89,7 @@
     <a href="https://github.com/Mika73100/Kotlin/blob/main/launcher/README.md">➡️ Le launcher</a>
 </div>
 <div align="right">
-    <a href="https://github.com/Mika73100/Kotlin/blob/main/ExposedDropDownMenuBox/README.md">➡️ ExposedDropDownMenuBox</a>
+    <a href="https://github.com/Mika73100/Kotlin/blob/main/ExposedDropdownMenuBox/README.md">➡️ ExposedDropDownMenuBox</a>
 </div>
 <br>
 
