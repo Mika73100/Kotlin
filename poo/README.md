@@ -20,6 +20,12 @@
 </div>
 
 <div align="center">
+        <h2> Les functions ! </h2><br><br>
+        <img src="./function.png">
+</div>
+
+
+<div align="center">
         <h2> Les propriétés privées ! </h2><br><br>
         <img src="./priver.png">
 </div>
@@ -38,6 +44,7 @@
         <h2> Les enum ! </h2><br><br>
         <img src="./enum.png">
 </div>
+
 
 
 
