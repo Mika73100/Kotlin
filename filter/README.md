@@ -13,9 +13,13 @@
 <br>
 
 <div align="center">
-        <h2>Le main activity !</h2><br><br>
-        <p>Je crée un ScaffoldComposable qui contiendra la liste de mes composants.</p><br>
-        <img src="./mainactivity.png">
+        <h2>Je crée le design d'un filtre !</h2><br><br>
+        <img src="./filter1.png">
+        <p>Les filtres</p><br>
+        <img src="./filter.png">
+        <p>Les tries</p><br>
+        <img src="./trie.png">
+
 </div>
 
 <br>
