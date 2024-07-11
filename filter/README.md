@@ -41,7 +41,7 @@
 
 <div align="center">
         <h2>La mise à jour de la liste !</h2><br><br>
-        <p>Ici, dans la liste, on peut dire que si IF, alors j'appelle ma variable inventaire qui va me renvoyer la totalité de ma liste (non filtrée). SINON, ELSE affiche ma liste filtrée avec l'appel de ma variable inventaireDisplayed.</p><br><br>
+        <p>Ici, dans la liste, on peut dire que si IF, alors j'appelle ma variable inventaire qui va me renvoyer la totalité de ma liste (non filtrée). SINON, ELSE affiche ma liste filtrée avec l'appel de ma variable inventaireDisplayed.</p><br>
         <p>Si, par exemple, à la place de cette variable j'avais laissé inventaire, mon filtre ne serait pas pris en compte et donc la liste ne s'afficherait pas autrement.</p><br>
         <img src="./inventaireDisplayed.png">
 </div>
