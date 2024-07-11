@@ -61,6 +61,14 @@
         <img src="./list.png">
 </div>
 
+<br>
+
+<div align="center">
+        <h2>Les variables !</h2><br><br>
+        <p>Je crée les variables que je vais utilisé dans ma recherche de filtre.</p><br>
+        <img src="./codefiltre.png">
+</div>
+
 
 
 
