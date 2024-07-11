@@ -5,45 +5,15 @@
 
 
 <div align="center">
-        <h2>La POO !</h2><br><br>
-        <img src="./poo1.png">
+        <h2>Je crée une class voiture avec des fonctions dans ma class !</h2><br><br>
+        <img src="./class.png">
 </div>
 
 <div align="center">
-        <h2> J'appelle une méthode ! </h2><br><br>
-        <img src="./poo2.png">
+        <h2> Je crée une variable dans main avec les propriété de ma voiture et j'appel mes fonctions ! </h2><br><br>
+        <img src="./appeldansmain.png">
 </div>
 
-<div align="center">
-        <h2> Les paramètres ! </h2><br><br>
-        <img src="./poo3.png">
-</div>
-
-<div align="center">
-        <h2> Les functions ! </h2><br><br>
-        <img src="./function.png">
-</div>
-
-
-<div align="center">
-        <h2> Les propriétés privées ! </h2><br><br>
-        <img src="./priver.png">
-</div>
-
-<div align="center">
-        <h2> Les propriétés calculé ! </h2><br><br>
-        <img src="./getset.png">
-</div>
-
-<div align="center">
-        <h2> Les data class ! </h2><br><br>
-        <img src="./dataclass.png">
-</div>
-
-<div align="center">
-        <h2> Les enum ! </h2><br><br>
-        <img src="./enum.png">
-</div>
 
 
 
