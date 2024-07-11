@@ -19,7 +19,6 @@
         <img src="./filter.png"><br><br>
         <p>Les tries</p><br>
         <img src="./trie.png">
-
 </div>
 
 <br>
@@ -29,6 +28,7 @@
         <p>Dans ScaffoldComposable j'appel mes composants TopAppBar et BodyComposable.</p><br>
         <img src="./appbar.png">
 </div>
+
 <br>
 
 <div align="center">
@@ -36,6 +36,7 @@
         <p>Ici il s'agit de ma TopAppBar.</p><br>
         <img src="./app.png">
 </div>
+
 <br>
 
 <div align="center">
@@ -43,6 +44,7 @@
         <p>Ici il s'agit du contenue de mon body.</p><br>
         <img src="./body.png">
 </div>
+
 <br>
 
 <div align="center">
@@ -50,6 +52,7 @@
         <p>Ici il s'agit du composant card image et message de l'utilisateur.</p><br>
         <img src="./cardlist.png">
 </div>
+
 <br>
 
 <div align="center">
