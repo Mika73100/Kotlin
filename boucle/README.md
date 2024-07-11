@@ -39,4 +39,8 @@
         <img src="./lesconditionsinfsupp.png">
 </div>
 
+<div align="center">
+        <h2> Les conditions bonne pratique</h2><br><br>
+        <img src="./conditionbonnepratique.png">
+</div>
 
