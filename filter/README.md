@@ -5,9 +5,9 @@
 
 
 <div align="center">
-        <h2>Importer de la data !</h2><br><br>
+        <h2>Création d'un système de filtre et de trie !</h2><br><br>
         <p></p><br>
-        <img src="./drowable.png">
+        <img src="./design.png">
 </div>
 
 <br>
