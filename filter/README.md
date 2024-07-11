@@ -29,6 +29,14 @@
         <img src="./codefiltre.png">
 </div>
 
+<br>
+
+<div align="center">
+        <h2>Le système de filtre !</h2><br><br>
+        <p>Je reprends ma variable inventaireDisplayed qui va me permettre d'appeler mes variables filtrées sur mon objet inventaire. C'est donc à partir de ma variable inventaireDisplayed que ma liste d'inventaire va se mettre à jour et s'afficher en fonction du choix de mon filtre.</p><br>
+        <img src="./inventaireDisplayed.png">
+</div>
+
 
 
 
