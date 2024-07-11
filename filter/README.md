@@ -14,11 +14,17 @@
 
 <div align="center">
         <h2>Je crée le design d'un filtre !</h2>
-        <img src="./filter1.png"><br><br>
         <p>Les filtres</p><br>
         <img src="./filter.png"><br><br>
         <p>Les tries</p><br>
         <img src="./trie.png">
+</div>
+
+<br>
+
+<div align="center">
+        <h2>Le code front du filtre !</h2>
+        <img src="./filter1.png"><br><br>
 </div>
 
 <br>
