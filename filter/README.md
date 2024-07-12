@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-        <h2>Je crée le design d'un filtre !</h2>
+        <h2>J'utilise inputchitfilter et inputchitsort" !</h2>
         <p>Les filtres</p><br>
         <img src="./filter.png"><br><br>
         <p>Les tries</p><br>
