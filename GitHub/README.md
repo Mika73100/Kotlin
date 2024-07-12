@@ -9,11 +9,19 @@
         <img src="./git.png">
 </div>
 
+<br>
+
 <div align="center">
         <h2> Comment crée une MR ! </h2><br><br>
         <img src="./mr.png">
 </div>
 
+<br>
+
+<div align="center">
+        <h2> Click sur rebase to master pour mettre à jour le projet ! </h2><br><br>
+        <img src="./rebase.png">
+</div>
 
 
 
