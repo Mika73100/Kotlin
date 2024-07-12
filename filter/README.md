@@ -52,7 +52,19 @@
         <img src="./ifelse.png">
 </div>
 
+<br>
 
+<div align="center">
+        <h2>If fais appel a la liste a partir du filtre interventionDisplay !</h2><br><br>
+        <p>Ici, la vue es fait a partir du if, interventionDisplay recupère la liste d'inventaire a partir du filtre de trie.</p><br><br>
+        <img src="./interventionDisplay.png">
+</div>
 
+<br>
 
+<div align="center">
+        <h2>J'oublie pas d'appeler interventionDisplay dans mes paramettres de liste !</h2><br><br>
+        <br><br>
+        <img src="./bouclesurlobjet.png">
+</div>
 
