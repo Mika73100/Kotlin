@@ -14,7 +14,7 @@
 <div align="center">
         <h2> Comment crée une MR ! </h2><br><br>
         <img src="./mr.png">
-        <p> Ne pas clôturer !<p>
+        <p> Ne pas clôturer une MR!<p>
 </div>
 
 <br>
