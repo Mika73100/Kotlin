@@ -12,9 +12,13 @@
 <br>
 
 <div align="center">
-        <h2> Comment crée une MR ! </h2><br><br>
-        <img src="./mr.png">
-        <p> Ne pas clôturer une MR!<p>
+        <h2> Comment crée une MR ! </h2><br>
+        <img src="./mr.png"><br>
+        <p> Ne pas clôturer une MR! "c'est au responsable de le faire"<p>
+        <img src=""><br>
+        <p> Tu crée une MR alors coche DRAFT !<p>
+        <img src="./label.png"><br>
+        <p> Tu fini une MR alors dans label rajoute Ready to merge !<p>
 </div>
 
 <br>
