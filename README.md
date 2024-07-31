@@ -11,7 +11,7 @@
 <br>
 
 <div>
-    <div align="left">
+    <div align="right">
         <a href="https://github.com/Mika73100/Kotlin/blob/main/basic/README.md">➡️ Les basic </a>
     </div>
     <div align="right">
@@ -27,7 +27,7 @@
 
 
 
-<div align="left">
+<div align="right">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/composants/README.md">➡️ Les composants</a>
 </div>
 <div align="right">
@@ -42,7 +42,7 @@
 
 
 
-<div align="left">
+<div align="right">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/boucle/README.md">➡️ Les boucles</a>
 </div>
 <div align="right">
@@ -56,7 +56,7 @@
 
 
 
-<div align="left">
+<div align="right">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/lestypo/README.md">➡️ Les typographies</a>
 </div>
 <div align="right">
@@ -71,7 +71,7 @@
 
 
 
-<div align="left">
+<div align="right">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/navigationbar/README.md">➡️ La navigation</a>
 </div>
 <div align="right">
@@ -85,7 +85,7 @@
 
 
 
-<div align="left">
+<div align="right">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/launcher/README.md">➡️ Le launcher</a>
 </div>
 <div align="right">
@@ -99,7 +99,7 @@
 
 
 
-<div align="left">
+<div align="right">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/leslambdas/README.md">➡️ Les Lambdas</a>
 </div>
 <div align="right">
@@ -114,7 +114,7 @@
 
 
 
-<div align="left">
+<div align="right">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/button/README.md">➡️ Les buttons</a>
 </div>
 <div align="right">
@@ -133,7 +133,7 @@
 
 
 
-<div align="left">
+<div align="right">
     <a href="https://github.com/Mika73100/Kotlin/blob/main/GitHub/README.md">➡️ GitHub Desktop</a>
 </div>
 <div align="right">
