@@ -26,11 +26,6 @@
 </div>
 
 <div align="center">
-        <h2> Avec la data ! </h2><br><br>
-        <img src="./frontgrille.png">
-</div>
-
-<div align="center">
         <h2> MainActivity ! </h2><br><br>
         <img src="./main.png">
 </div>
