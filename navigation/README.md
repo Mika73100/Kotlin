@@ -30,3 +30,33 @@
         <img src="./frontgrille.png">
 </div>
 
+<div align="center">
+        <h2> MainActivity ! </h2><br><br>
+        <img src="./main.png">
+</div>
+
+<div align="center">
+        <h2> AppBar ! </h2><br><br>
+        <img src="./appbar.png">
+</div>
+
+<div align="center">
+        <h2> DetailView ! </h2><br><br>
+        <img src="./detailview.png">
+</div>
+
+<div align="center">
+        <h2> HomePage ! </h2><br><br>
+        <img src="./var.png">
+        <img src="./page.png">
+</div>
+
+<div align="center">
+        <h2> AppBar ! </h2><br><br>
+        <img src="./appbar.png">
+</div>
+
+<div align="center">
+        <h2> AppBar ! </h2><br><br>
+        <img src="./appbar.png">
+</div>
