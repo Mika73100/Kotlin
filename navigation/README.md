@@ -6,7 +6,7 @@
 
 <div align="center">
         <h2> Le projet ! </h2><br><br>
-        <img src="./673shots_so.png">
+        <img src="./694shots_so.png">
 
 </div>
 
