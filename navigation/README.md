@@ -5,13 +5,24 @@
 
 
 <div align="center">
+        <h2> Le projet ! </h2><br><br>
+        <img src="./main.png"><img src="./enfants.png">
+
+</div>
+
+
+<br>
+
+<div align="center">
         <h2> Mise en place de la data ! </h2><br><br>
         <img src="./lesdata.png">
 </div>
 
 <div align="center">
-        <h2> Les grilles sans l'appel de data ! </h2><br><br>
-        <img src="./prefront.png">
+        <h2> Création des models ! </h2><br><br>
+        <img src="./1.png">
+        <img src="./2.png">
+        <img src="./3.png">
 </div>
 
 <div align="center">
