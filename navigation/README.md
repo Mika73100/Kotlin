@@ -52,11 +52,11 @@
 </div>
 
 <div align="center">
-        <h2> AppBar ! </h2><br><br>
-        <img src="./appbar.png">
+        <h2> HomeScreen ! </h2><br><br>
+        <img src="./homescreen.png">
 </div>
 
 <div align="center">
-        <h2> AppBar ! </h2><br><br>
-        <img src="./appbar.png">
+        <h2> MenuView ! </h2><br><br>
+        <img src="./menuview.png">
 </div>
