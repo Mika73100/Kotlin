@@ -47,6 +47,14 @@
         <img src="./buttonicone.png"><br><br>
 </div>
 
+<div align="center">
+        <h2> Les buttons combinedClickable avec conditions ! </h2><br><br>
+        <p>Crée une variable.</p>
+        <img src="./lavar.png">
+        <p>la condition et la couleurs</p>
+        <img src="./lacondi.png"><br><br>
+</div>
+
 
 
 
