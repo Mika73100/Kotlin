@@ -51,8 +51,10 @@
         <h2> Les buttons combinedClickable avec conditions ! </h2><br><br>
         <p>Crée une variable.</p>
         <img src="./lavar.png">
-        <p>la condition et la couleurs</p>
+        <p>La condition</p>
         <img src="./lacondi.png"><br><br>
+        <p>La couleurs</p>
+        <img src="./couleurs.png"><br><br>
 </div>
 
 
