@@ -79,5 +79,9 @@
         <img src="./lalocalisation.png">
 </div>
 
+<div align="center">
+        <h2> Mise en place des bulles du carousel !</h2><br><br>
+        <img src="./bulle.png">
+</div>
 
 
